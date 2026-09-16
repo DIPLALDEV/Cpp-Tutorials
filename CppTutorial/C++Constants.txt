@@ -1,8 +1,0 @@
-
-
-When you do not want to change the value then use the keyword "const"
-
-Examples:
-
-const int myNum = 15;
-
