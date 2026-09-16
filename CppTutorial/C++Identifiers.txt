@@ -1,0 +1,18 @@
+
+
+All C++ variables must be identified with unique names
+
+These unique names are called identifiers
+
+Examples:
+
+int minutesPerHour = 60; // good
+int m = 60; // ok but not so easy to understand 
+
+General rules:
+    - Names can contain letters, digits and underscores
+    - Names must begin with a letter or an underscores
+    - Names are case-sensitive
+    - Names cannot contain whitespaces or special characters like !, #, %;
+    - Reserved words cannot be used as names.
+
